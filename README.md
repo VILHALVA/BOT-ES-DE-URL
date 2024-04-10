@@ -9,7 +9,7 @@ Primeiramente ele enviará uma mensagem com os botões inline para acessar as UR
 
 ## EXECUTANDO O PROJETO:
 1. **Coloque o Token:**
-   - Antes de executar o programa, é necessário substituir o token do seu bot, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. Se você não estiver familiarizado com esses passos, confira nosso [curso completo sobre a criação de bots no Telegram](https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT) para obter orientações detalhadas.
+   - Antes de executar o programa, é necessário substituir o token do seu bot, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina.
 
 2. **Modifique o Código:**
     - Substitua `"GRUPO"`, `"CANAL CODERS"` e `"CANAL DO VILHALVA"` pelas URLs reais que você deseja usar para os botões.
@@ -23,5 +23,5 @@ Primeiramente ele enviará uma mensagem com os botões inline para acessar as UR
 
 ## SAIBA MAIS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [FAÇA OS NOSSOS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+- [CURSO DE TELEBOT](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
 
