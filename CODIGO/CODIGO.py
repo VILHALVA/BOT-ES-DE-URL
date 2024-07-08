@@ -1,7 +1,7 @@
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
+from TOKEN import TOKEN
 
-TOKEN = "TOKEN_AQUI"
 bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=["start"])
